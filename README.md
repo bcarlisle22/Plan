@@ -4,4 +4,4 @@ Choose your plan mini project
 Tailwind CSS Practice
 <br>
 <br>
-![](plan-image.png)
+![](choose-your-plan.png)
