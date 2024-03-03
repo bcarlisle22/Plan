@@ -5,4 +5,4 @@ Choose your plan mini project
 - Responsive
 <br>
 
-![](choose-your-plan.png)
+![](choose-your-plan-updated.png)
