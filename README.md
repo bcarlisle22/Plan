@@ -4,5 +4,5 @@ Choose your plan mini project
 - Tailwind CSS Practice
 - Responsive
 <br>
-<br>
+
 ![](choose-your-plan.png)
