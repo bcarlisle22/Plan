@@ -1,8 +1,10 @@
 Choose your plan mini project
 <br>
+
+```Tailwind CSS``` |  ```HTML```
+
 <br>
-- Tailwind CSS Practice
-- Responsive
+
 <br>
 
 ![](choose-your-plan-updated.png)
